@@ -37,5 +37,5 @@ public class MainActivity extends Activity
 		finish();
         System.exit(0);
     }
-	//private static final String BASE64_PUBLIC_KEY = "MIIBIjANBgkqhkiG ... ";
+	private static final String BASE64_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgI9+LBSsWYVwdZ0uiCFyvj6pOZrpP6SYaF4Rp98qNLvtyNM2xmDjqgNK8jp17PkKNu55TYmOt4ZV7HH20Wda5ZrJtpMtHNeAGYvSroaPbKx2el0pFm6gdp9nlBW9ZwifsCmn5666fpWAtkHq+JZryGDXD0/tWX/jRBsaQOMyqYUKn/dZWT7sOE5Y5W1ZHSRiQWmq/s7pMeEEVRAiclKmUo18W9XmznYwghKIxA6vOnBUGQABZlEd0raumuUvIsx3rfVN0Z6eP4waXedFh0qmOEuuulNegtTsfCJIPnql+hjqBmHlpctAvLjM8axAstS6oAY8SIgsjN5DqlwFUOduwQIDAQAB";
 }
